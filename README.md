@@ -1,4 +1,4 @@
-# Figlet Fonts
+# Figlet Fonts For Termux
 
 * my collection of figlet / toilet ascii art fonts
 
@@ -16,7 +16,7 @@
 
 * $ rm -rf figlet
 
-* $ git clone https://github.com/Sepatu-Bot/figlet-fonts.git
+* $ git clone https://github.com/Sepatu-Bot/figlet.git
 
 * $ ls
 
@@ -24,7 +24,7 @@
 
 * $ cd && exit
 
-# ASCII art Fonts by
+# ASCII art Fonts
 
 * Figlet: http://www.figlet.org
 
